@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 70ad673cc378ee04e920222792537207
+  - enabled: 1
+    path: Assets/Scenes/StinkyStevo Movement.unity
+    guid: f4a2fbcde1784f841bed652b5d292f34
   m_configObjects: {}
